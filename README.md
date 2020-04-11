@@ -10,9 +10,8 @@ How to Learn Reinforcement Learning: A Step-by-step Guide
 | Advanced Policy Gradient<br/>•	Deep Deterministic Policy Gradient (DDPG)<br/>•	Twin Delayed DDPG (TD3)<br/>•	Proximal Policy Optimization (PPO)<br/>•	Trust Region Policy Optimization (TRPO) | • Continuous action space<br/>•	Deterministic policy<br/>•	Deterministic policy gradient<br/> | •	[Deep RL Berkeley][10] – Advanced Policy Gradients<br/>•	Original papers <br/>•	[OpenAI Spinning Up][9] – PPO, TRPO, DDPG and TD3  |
 | Partially observable environment<br/>•	Modify existing algorithms to work with recurrent neural network (RNN) | • Recurrent neural network (RNN)<br/>•	Backpropagation through time<br/>•	Observation stacking<br/>•	How to sample data out of replay memory for RNN update | • [Arthur Juliani’s series][7] Part 6 – Partial Observability and DRQN<br/>•	[Deep Recurrent Q-Learning for Partially Observable MDPs][11]<br/>•	[Memory-based control with recurrent neural networks][12] |
 | Model-based<br/>•	Modify existing algorithms to utilize a model of the environment to simulate and plan | •	Motivation: environment can be on actual hardware (high cost)<br/>•	Model: an approximation of the environment<br/>•	Environment step vs model step<br/>•	Model-based planning<br/>•	Model-based learning<br/>•	Parallelization for on-policy vs off-policy algorithms<br/>•	Gradient parallelization<br/>•	Experience parallelization | •	[RL Textbook][2] – Chapter 8: Planning and Learning with Tabular Methods (8.1-8.4)<br/>•	[Deep RL Berkeley][10] – Model-based Planning<br/>•	[Deep RL Berkeley][10] – Model-based Reinforcement Learning |
-| Algorithm     | Required Concepts | Learning Materials |
-| Algorithm     | Required Concepts | Learning Materials |
-| Algorithm     | Required Concepts | Learning Materials |
+| Parallelization<br/>•	A2C<br/>•	A3C<br/>•	IMPALA | •	Parallelization for on-policy vs off-policy algorithms<br/>•	Gradient parallelization<br/>•	Experience parallelization | •	Deep RL Berkeley][10] – Distributed RL |
+| Exploration | •	Explore through sampling<br/>•	Intrinsic motivation<br/>•	Imitation learning<br/> | •	Deep RL Berkeley][10] – Exploration |
 
 [1]: https://www.mathworks.com/videos/series/reinforcement-learning.html
 [2]: http://incompleteideas.net/book/RLbook2018.pdf
