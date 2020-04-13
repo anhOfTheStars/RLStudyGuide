@@ -1,5 +1,10 @@
 # How to Learn Reinforcement Learning: A Step-by-step Guide
 
+Highly recommend you work through it in order. After the first 4 chapters, you should have enough foundation to mix up the roadmap.<br/>
+- Make sure you fully understand the required concepts through learning materials<br/>
+- Implement the algorithm in your favorite framework. Learning happens when you implement and debug it yourself.<br/>
+- Test it out with some RL problems. My favorites are cart-pole, inverted pendulum, walking robot, pong.<br/>
+
 | Chapter       | Algorithm     | Required Concepts | Learning Materials |
 | :-----------: | ------------- | ------------- | ------------- |
 | 1 | Dynamic Programming<br/>•	Policy Evaluation<br/>•	Policy Improvement<br/>• Value Iteration | • Markov Decision Process<br/>• Expected return<br/>• Discount factor<br/>• State, Observation<br/>• Action<br/>• Reward<br/>•	State value function V(s)<br/>•	State-action value function Q(s,a) | • [MATLAB Tech Talk][1] Part 1: What is RL?<br/>•	[MATLAB Tech Talk][1] Part 2: Understanding the Environment and Rewards<br/>• [RL Textbook][2] - Chapter 3+4: Finite MDP + Dynamic Programming<br/>•	[WildML][3] – Dynamic Programming exercises<br/>•	[David Silver’s Lecture][4] 1+2 |
