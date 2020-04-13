@@ -1,5 +1,4 @@
-# RLStudyGuide
-How to Learn Reinforcement Learning: A Step-by-step Guide
+# How to Learn Reinforcement Learning: A Step-by-step Guide
 
 | Chapter       | Algorithm     | Required Concepts | Learning Materials |
 | :-----------: | ------------- | ------------- | ------------- |
