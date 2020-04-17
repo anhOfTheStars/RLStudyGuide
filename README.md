@@ -1,9 +1,12 @@
 # How to Learn Reinforcement Learning: A Step-by-step Guide
 
-This repository provides the RL learning roadmap mentioned in the blog post [How to Learn Reinforcement Learning: A Step-by-step Guide](https://www.fiercepotato.com/post/rl-roadmap) and accommodate MATLAB coding exercises (with solutions).
-The MATLAB coding exercises format is based on [WildML][3] by [Denny Britz](https://twitter.com/dennybritz?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
+This repository provides the RL learning roadmap mentioned in the blog post [How to Learn Reinforcement Learning: A Step-by-step Guide](https://www.fiercepotato.com/post/rl-roadmap) and complimentary MATLAB coding exercises (with solutions).
 
-Highly recommend you work through it in order. After the first 4 chapters, you should have enough foundation to mix up the roadmap.<br/>
+The coding exercises format is based on the awesome [WildML Learning Reinforcement Learning course][3] by [Denny Britz](https://twitter.com/dennybritz?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
+
+## The RL Learning Roadmap
+
+Highly recommend you work through the roadmap in order. After the first 4 chapters, you should have enough foundation to mix up the roadmap.<br/>
 - Make sure you fully understand the required concepts through learning materials<br/>
 - Implement the algorithm in your favorite framework. Learning happens when you implement and debug it yourself.<br/>
 - Test it out with some RL problems. My favorites are cart-pole, inverted pendulum, walking robot, pong.<br/>
@@ -19,6 +22,9 @@ Highly recommend you work through it in order. After the first 4 chapters, you s
 | 7 | Model-based<br/>•	Modify existing algorithms to utilize a model of the environment to simulate and plan | •	Motivation: environment can be on actual hardware (high cost)<br/>•	Model: an approximation of the environment<br/>•	Environment step vs model step<br/>•	Model-based planning<br/>•	Model-based learning<br/>•	Parallelization for on-policy vs off-policy algorithms<br/>•	Gradient parallelization<br/>•	Experience parallelization | •	[RL Textbook][2] – Chapter 8: Planning and Learning with Tabular Methods (8.1-8.4)<br/>•	[Deep RL Berkeley][10] – Model-based Planning<br/>•	[Deep RL Berkeley][10] – Model-based Reinforcement Learning |
 | 8 | Parallelization<br/>•	A2C<br/>•	A3C<br/>•	IMPALA | •	Parallelization for on-policy vs off-policy algorithms<br/>•	Gradient parallelization<br/>•	Experience parallelization | •	[Deep RL Berkeley][10] – Distributed RL |
 | 9 | Exploration | •	Explore through sampling<br/>•	Intrinsic motivation<br/>•	Imitation learning<br/> | •	[Deep RL Berkeley][10] – Exploration |
+
+## Why MATLAB?
+There are many RL courses in the community but none for MATLAB users. You will progress as long as you reimplement in your favorite programming language/framework (Python, Tensorflow, Pytorch, etc.)
 
 [1]: https://www.mathworks.com/videos/series/reinforcement-learning.html
 [2]: http://incompleteideas.net/book/RLbook2018.pdf
