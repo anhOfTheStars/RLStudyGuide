@@ -1,6 +1,6 @@
 # How to Learn Reinforcement Learning: A Step-by-step Guide
 
-This repository provides the RL learning roadmap mentioned in the blog post [How to Learn Reinforcement Learning: A Step-by-step Guide][https://www.fiercepotato.com/post/rl-roadmap].
+This repository provides the RL learning roadmap mentioned in the blog post [How to Learn Reinforcement Learning: A Step-by-step Guide](https://www.fiercepotato.com/post/rl-roadmap).
 
 Highly recommend you work through it in order. After the first 4 chapters, you should have enough foundation to mix up the roadmap.<br/>
 - Make sure you fully understand the required concepts through learning materials<br/>
