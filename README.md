@@ -4,7 +4,7 @@ This repository provides the RL learning roadmap mentioned in the blog post [How
 
 The coding exercises format is based on the awesome [WildML Learning Reinforcement Learning course][3] by [Denny Britz](https://twitter.com/dennybritz?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
 
-## The RL Learning Roadmap
+# The RL Learning Roadmap
 
 Highly recommend you work through the roadmap in order. After the first 4 chapters, you should have enough foundation to mix up the roadmap.<br/>
 - Make sure you fully understand the required concepts through learning materials<br/>
@@ -23,7 +23,12 @@ Highly recommend you work through the roadmap in order. After the first 4 chapte
 | 8 | Parallelization<br/>•	A2C<br/>•	A3C<br/>•	IMPALA | •	Parallelization for on-policy vs off-policy algorithms<br/>•	Gradient parallelization<br/>•	Experience parallelization | •	[Deep RL Berkeley][10] – Distributed RL |
 | 9 | Exploration | •	Explore through sampling<br/>•	Intrinsic motivation<br/>•	Imitation learning<br/> | •	[Deep RL Berkeley][10] – Exploration |
 
-## Why MATLAB?
+# The course
+
+•	[Chapter 1 - Dynamic Programming](https://github.com/anhOfTheStars/RLStudyGuide/tree/master/Chap1-DynamicProgramming)
+
+
+### Why MATLAB?
 There are many RL courses in the community but none for MATLAB users. You will progress as long as you reimplement in your favorite programming language/framework (Python, Tensorflow, Pytorch, etc.)
 
 [1]: https://www.mathworks.com/videos/series/reinforcement-learning.html
