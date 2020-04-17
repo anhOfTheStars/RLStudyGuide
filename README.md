@@ -26,7 +26,7 @@ Highly recommend you work through the roadmap in order. After the first 4 chapte
 # MATLAB Coding Exercises
 Coding Exercises requires [Reinforcement Learning Toolbox](https://www.mathworks.com/products/reinforcement-learning.html) but you can always reimplement from scratch. For Python users, I would recommend the [WildML Learning Reinforcement Learning course][3] by [Denny Britz](https://twitter.com/dennybritz?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
 
-•	[Chapter 1 - Dynamic Programming](https://github.com/anhOfTheStars/RLStudyGuide/tree/master/Chap1-DynamicProgramming)
+•	[Chapter 1 - Dynamic Programming](https://github.com/anhOfTheStars/RLStudyGuide/tree/master/Chap1-DynamicProgramming)<br/>
 •	Other chapters are work in progress
 
 
