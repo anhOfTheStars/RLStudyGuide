@@ -25,6 +25,16 @@ Highly recommend you work through the roadmap in order. After the first 4 chapte
 
 # References
 
+• [Reinforcement Learning Toolbox][12], The MathWorks<br/>
+• [Reinforcement Learning: An Introduction][1] (textbook), Sutton and Barto<br/>
+• [Deep Reinforcement Learning][10] (course), UC Berkeley<br/>
+• [OpenAI Spinning Up][9](textbook/blog)<br/>
+• [WildML Learning Reinforcement Learning][3] (python course with exercises/solutions), Denny Britz<br/>
+• [MATLAB RL Tech Talks][1] (videos), The MathWorks<br/>
+• [David Silver’s RL course][4]<br/>
+• [Simple Reinforcement Learning][7] (blog), Arthur Juliani<br/>
+• [Deep Learning Specialization Coursera][8] (course), Andrew Ng (you can audit for free, highly recommend course 1 + 2 to get Deep Learning foundations)<br/>
+
 [1]: https://www.mathworks.com/videos/series/reinforcement-learning.html
 [2]: http://incompleteideas.net/book/RLbook2018.pdf
 [3]: https://github.com/dennybritz/reinforcement-learning
