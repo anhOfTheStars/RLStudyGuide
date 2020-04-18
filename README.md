@@ -4,7 +4,7 @@ This repository provides the RL learning roadmap mentioned in the blog post [How
 
 For complimentary [MATLAB](https://www.mathworks.com/products/matlab.html) coding exercises with solutions, see [RL Course MATLAB](https://github.com/anhOfTheStars/RL-Course-MATLAB).
 
-# The RL Learning Roadmap
+## The RL Learning Roadmap
 
 Highly recommend you work through the roadmap in order. After the first 4 chapters, you should have enough foundation to mix up the roadmap.<br/>
 - Make sure you fully understand the required concepts through learning materials<br/>
@@ -23,7 +23,7 @@ Highly recommend you work through the roadmap in order. After the first 4 chapte
 | 8 | **Parallelization**<br/>•	A2C<br/>•	A3C<br/>•	IMPALA | •	Parallelization for on-policy vs off-policy algorithms<br/>•	Gradient parallelization<br/>•	Experience parallelization | •	[Deep RL Berkeley][10] – Distributed RL |
 | 9 | **Exploration** | •	Explore through sampling<br/>•	Intrinsic motivation<br/>•	Imitation learning<br/> | •	[Deep RL Berkeley][10] – Exploration |
 
-# References
+## References
 
 • [Reinforcement Learning Toolbox][12], The MathWorks<br/>
 • [Reinforcement Learning: An Introduction][1] (textbook), Sutton and Barto<br/>
