@@ -1,8 +1,8 @@
 # How to Learn Reinforcement Learning: A Step-by-step Guide
 
-This repository provides the RL learning roadmap mentioned in the blog post [How to Learn Reinforcement Learning: A Step-by-step Guide](https://www.fiercepotato.com/post/rl-roadmap) and complimentary [MATLAB](https://www.mathworks.com/products/matlab.html) coding exercises (with solutions).
+This repository provides the RL learning roadmap mentioned in the blog post [How to Learn Reinforcement Learning: A Step-by-step Guide](https://www.fiercepotato.com/post/rl-roadmap).
 
-The coding exercises format is based on the awesome [WildML Learning Reinforcement Learning course][3] by [Denny Britz](https://twitter.com/dennybritz?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
+For complimentary [MATLAB](https://www.mathworks.com/products/matlab.html) coding exercises with solutions, see [RL Course MATLAB](https://github.com/anhOfTheStars/RL-Course-MATLAB)
 
 # The RL Learning Roadmap
 
@@ -23,15 +23,7 @@ Highly recommend you work through the roadmap in order. After the first 4 chapte
 | 8 | **Parallelization**<br/>•	A2C<br/>•	A3C<br/>•	IMPALA | •	Parallelization for on-policy vs off-policy algorithms<br/>•	Gradient parallelization<br/>•	Experience parallelization | •	[Deep RL Berkeley][10] – Distributed RL |
 | 9 | **Exploration** | •	Explore through sampling<br/>•	Intrinsic motivation<br/>•	Imitation learning<br/> | •	[Deep RL Berkeley][10] – Exploration |
 
-# MATLAB Coding Exercises
-Coding Exercises requires [Reinforcement Learning Toolbox](https://www.mathworks.com/products/reinforcement-learning.html) but you can always reimplement from scratch. For Python users, I would recommend the [WildML Learning Reinforcement Learning course][3] by [Denny Britz](https://twitter.com/dennybritz?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
-
-•	[Chapter 1 - Dynamic Programming](https://github.com/anhOfTheStars/RLStudyGuide/tree/master/Chap1-DynamicProgramming)<br/>
-•	Other chapters are work in progress
-
-
-### Why MATLAB?
-There are many RL courses in the community but none for MATLAB users.
+# References
 
 [1]: https://www.mathworks.com/videos/series/reinforcement-learning.html
 [2]: http://incompleteideas.net/book/RLbook2018.pdf
